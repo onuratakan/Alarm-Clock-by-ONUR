@@ -19,5 +19,5 @@ Useful alarm program.
 # Alarm !!!
 ![alarm !!!](https://user-images.githubusercontent.com/41792982/87837781-69487b80-c89d-11ea-9fd0-38047ec6d58a.PNG)
 
-#Snooze Alarm
+# Snooze Alarm
 ![Snooze Alarm](https://user-images.githubusercontent.com/41792982/87837806-85e4b380-c89d-11ea-9688-28a3e61d8718.PNG)
