@@ -1,4 +1,4 @@
-# Alarm-Clock-by-ONUR
+# Alarm Clock by ONUR | [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/onuratakan/Alarm-Clock-by-ONUR/blob/master/LICENSE)
 ![alarm_clock_by_onur](https://repository-images.githubusercontent.com/280539160/9560c880-59b6-11eb-93de-9bc01bc0ace1)
 Useful alarm program.
 
